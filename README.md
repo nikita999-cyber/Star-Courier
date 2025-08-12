@@ -44,13 +44,13 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your_username/star-courier.git
+   git clone https://github.com/QuadDarv1ne/Star-Courier.git
    ```
 
 2. Перейдите в папку проекта:
 
    ```bash
-   cd star-courier
+   cd Star-Courier
    ```
 
 3. (Опционально) Создайте и активируйте виртуальное окружение:
